@@ -1,5 +1,3 @@
-﻿# Practica_4_AplicacionWeb
-
 # Evidencia de realización de práctica No. 4
 ## Aplicación Web
 ### En esta práctica, creamos un ejemplo de página web en .PHP el código es del repositorio "https://github.com/josejesusguzman/lab-subir-app-service-azure.git"
