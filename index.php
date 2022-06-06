@@ -1,4 +1,4 @@
-// Hacemos un arreglo con datos de ejemplo
+// Hacemos un arreglo con datos de ejemplo para fines Académicos y copiado de Maestro: https://github.com/josejesusguzman/lab-subir-app-service-azure.git
 $data = [
     'title' => 'Untitled-1',
     'created' => '2015-01-01',
