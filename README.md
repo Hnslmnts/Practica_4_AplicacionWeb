@@ -2,7 +2,7 @@
 ## Aplicación Web
 ### En esta práctica, creamos un ejemplo de página web en .PHP el código es del repositorio "https://github.com/josejesusguzman/lab-subir-app-service-azure.git"
 **"*Nota:"**
-Únicamente es para fines académicos y evidencia de creación de creación de AppWeb en [Azure](https://azure.microsoft.com/en-us/).
+Únicamente es para fines académicos y evidencia de creación de AppWeb en [Azure](https://azure.microsoft.com/en-us/).
 ______________________
 
 #### Creación de webapp con el portal de Azure.
